@@ -1,0 +1,181 @@
+.circle-wrap .circle .mask,
+.circle-wrap .circle .fill {
+  width: 120px;
+  height: 120px;
+  position: absolute;
+  border-radius: 50%;
+}
+.circle-wrap .circle .mask {
+    clip: rect(0px, 45px, 120px, 0px);
+  }
+  
+  .circle-wrap {
+    margin: 20px auto;
+    width: 120px;
+    height: 120px;
+    background: #e6e2e7;
+    border-radius: 50%;
+  }
+  .circle-wrap .circle .mask .fill {
+  
+    clip: rect(0px, 120px, 120px, 0px);
+    background-color:#4C8DF1 ;
+  }
+  .circle-wrap .circle .mask.full,
+  .circle-wrap .circle .fill {
+    animation: fill ease-in-out 3s;
+    transform: rotate(126deg);
+  }
+   
+
+  .circle-wrap .inside-circle {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    background: #fff;
+    line-height: 100px;
+    text-align: center;
+    margin-top: 10px;
+    margin-left: 10px;
+    position: absolute;
+    z-index: 100;
+    font-weight: 700;
+    font-size: 2em;
+  } 
+  /*prayer facilities*/
+  .circle-wrap-3 .circle-3 .mask-3,
+.circle-wrap-3 .circle-3 .fill-3 {
+  width: 120px;
+  height: 120px;
+  position: absolute;
+  border-radius: 50%;
+}
+.circle-wrap-3 .circle-3 .mask-3 {
+    clip: rect(0px, 50px, 120px, 0px);
+  }
+  
+  .circle-wrap-3 {
+    margin: 20px auto;
+    width: 120px;
+    height: 120px;
+    background: #e6e2e7;
+    border-radius: 50%;
+  }
+  .circle-wrap-3 .circle-3 .mask-3 .fill-3 {
+  
+    clip: rect(0px, 120px, 120px, 0px);
+    background-color:#FF4240 ;
+  }
+  .circle-wrap-3 .circle-3 .mask-3.full-3,
+  .circle-wrap-3 .circle-3 .fill-3 {
+    animation: fill ease-in-out 3s;
+    transform: rotate(126deg);
+  }
+   
+
+  .circle-wrap-3 .inside-circle-3 {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    background: #fff;
+    line-height: 100px;
+    text-align: center;
+    margin-top: 10px;
+    margin-left: 10px;
+    position: absolute;
+    z-index: 100;
+    font-weight: 700;
+    font-size: 2em;
+  }  
+     /* senior player */
+    
+  .circle-wrap-2 .circle-2 .mask-2,
+  .circle-wrap-2 .circle-2 .fill-2 {
+    width: 120px;
+    height: 120px;
+    position: absolute;
+    border-radius: 50%;
+  }
+  .circle-wrap-2 .circle-2 .mask-2 {
+      clip: rect(0px, 60px, 120px, 0px);
+    }
+    
+    .circle-wrap-2 {
+      margin: 20px auto;
+      width: 120px;
+      height: 120px;
+      background: #e6e2e7;
+      border-radius: 50%;
+    }
+    .circle-wrap-2 .circle-2 .mask-2 .fill-2 {
+    
+      clip: rect(0px, 120px, 120px, 0px);
+      background-color: #FFB546;
+    }
+    .circle-wrap-2 .circle-2 .mask-2.full-2,
+    .circle-wrap-2 .circle-2 .fill-2 {
+      animation: fill ease-in-out 3s;
+      transform: rotate(126deg);
+    }
+     
+  
+    .circle-wrap-2 .inside-circle-2 {
+      width: 100px;
+      height: 100px;
+      border-radius: 50%;
+      background: #fff;
+      line-height: 100px;
+      text-align: center;
+      margin-top: 10px;
+      margin-left: 10px;
+      position: absolute;
+      z-index: 100;
+      font-weight: 700;
+      font-size: 2em;
+    }
+    /*experienced coach*/
+    
+  .circle-wrap-1 .circle-1 .mask-1,
+  .circle-wrap-1 .circle-1 .fill-1 {
+    width: 120px;
+    height: 120px;
+    position: absolute;
+    border-radius: 50%;
+  }
+  .circle-wrap-1 .circle-1 .mask-1 {
+      clip: rect(0px, 70px, 120px, 0px);
+    }
+    
+    .circle-wrap-1 {
+      margin: 20px auto;
+      width: 120px;
+      height: 120px;
+      background: #e6e2e7;
+      border-radius: 50%;
+    }
+    .circle-wrap-1 .circle-1 .mask-1 .fill-1 {
+    
+      clip: rect(0px, 120px, 120px, 0px);
+      background-color:#49D293 ;
+    }
+    .circle-wrap-1 .circle-1 .mask-1.full-1,
+    .circle-wrap-1 .circle-1 .fill-1 {
+      animation: fill ease-in-out 3s;
+      transform: rotate(126deg);
+    }
+     
+  
+    .circle-wrap-1 .inside-circle-1 {
+      width: 100px;
+      height: 100px;
+      border-radius: 50%;
+      background: #fff;
+      line-height: 100px;
+      text-align: center;
+      margin-top: 10px;
+      margin-left: 10px;
+      position: absolute;
+      z-index: 100;
+      font-weight: 700;
+      font-size: 2em;
+    }
